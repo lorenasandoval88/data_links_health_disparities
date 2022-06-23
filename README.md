@@ -14,7 +14,10 @@ Since 1968, the U.S. Department of Education (ED) has conducted the Civil Rights
 
 The CRDC collects a variety of information including student enrollment and educational programs and services, most of which is disaggregated by race/ethnicity, sex, limited English proficiency, and disability. The CRDC is a longstanding and important aspect of the ED Office for Civil Rights (OCR) overall strategy for administering and enforcing the civil rights statutes for which it is responsible. Information collected by the CRDC is also used by other ED offices as well as policymakers and researchers outside of ED.
 
+# paper links related to health diparities research
 
+Not all inequalities are alike
+https://www.nature.com/articles/d41586-022-01682-3
 
 # GeoData
 
