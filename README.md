@@ -24,6 +24,9 @@ Census: Small Area Income and Poverty Estimates (SAIPE)
 https://ffiec.cfpb.gov/data-browser/maps/2021?geography=state&variable=actionTaken&value=3&filter=race&filtervalue=Black%20or%20African%20American&mapCenter=-96,38
 Home Mortgage Disclosure Act: Lending Bias
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9010391/
+Paper: Home mortgage discrimination and incidence of triple-negative and Luminal A breast cancer among non-Hispanic Black and non-Hispanic White females in California, 2006-2015
+
 # paper links related to health diparities research
 
 Not all inequalities are alike
