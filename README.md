@@ -18,6 +18,9 @@ The CRDC collects a variety of information including student enrollment and educ
 https://edopportunity.org/
 The Educational Opportunity Project at Stanford University has built the first national database of academic performance.
 
+https://www.census.gov/data-tools/demo/saipe/#/?s_measures=5_17_fam&map_yearSelector=2019&s_state=53&s_geography=district&s_county=&s_district=5300030,5301380
+Census: Small Area Income and Poverty Estimates (SAIPE)
+
 
 # paper links related to health diparities research
 
