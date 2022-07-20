@@ -21,6 +21,8 @@ The Educational Opportunity Project at Stanford University has built the first n
 https://www.census.gov/data-tools/demo/saipe/#/?s_measures=5_17_fam&map_yearSelector=2019&s_state=53&s_geography=district&s_county=&s_district=5300030,5301380
 Census: Small Area Income and Poverty Estimates (SAIPE)
 
+https://ffiec.cfpb.gov/data-browser/maps/2021?geography=state&variable=actionTaken&value=3&filter=race&filtervalue=Black%20or%20African%20American&mapCenter=-96,38
+Home Mortgage Disclosure Act: Lending Bias
 
 # paper links related to health diparities research
 
