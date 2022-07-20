@@ -25,4 +25,4 @@ https://www.nature.com/articles/d41586-022-01682-3
 http://dhmontgomery.com/ire2017/
 
 # Data stratification Ideas
-High v Low SES by Race
+Minority outcomes in High v Low SES predominantly white neighborhoods
