@@ -22,3 +22,6 @@ https://www.nature.com/articles/d41586-022-01682-3
 # GeoData
 
 http://dhmontgomery.com/ire2017/
+
+# Data stratification Ideas
+High v Low SES by Race
