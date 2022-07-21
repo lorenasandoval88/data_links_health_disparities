@@ -27,6 +27,10 @@ Home Mortgage Disclosure Act: Lending Bias
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9010391/
 Paper: Home mortgage discrimination and incidence of triple-negative and Luminal A breast cancer among non-Hispanic Black and non-Hispanic White females in California, 2006-2015
 
+Soctrata
+The Socrata Open Data API allows you to programmatically access a wealth of open data resources from governments, non-profits, and NGOs around the world.
+https://dev.socrata.com/data/
+
 # paper links related to health diparities research
 
 Not all inequalities are alike
